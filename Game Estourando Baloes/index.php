@@ -6,12 +6,7 @@
 	<meta charset="UTF-8" />
 	<link href="https://fonts.googleapis.com/css?family=Rock+Salt" rel="stylesheet" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
-	<script type="text/javascript">
-		function inicia_jogo(){
-			var nivel_jogo = document.getElementById("nivel_jogo").value;
-			window.location.href = "jogo.php?"+nivel_jogo;
-		}
-	</script>
+	<script src="arquivo1.js" type="text/javascript"></script>
 </head>
 <body style="background:#F5DEB3;">
 	<div style="text-align:center;">
