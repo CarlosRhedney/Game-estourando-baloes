@@ -1,5 +1,5 @@
 # Game Estourando Balões
-JavaScript
+ Jogo desenvolvido em JavaScript
 ![Game-Estourando-Baloes1](https://user-images.githubusercontent.com/49602892/64087080-d567d280-cd11-11e9-918c-b541be02fff1.png)
 
 # ....
